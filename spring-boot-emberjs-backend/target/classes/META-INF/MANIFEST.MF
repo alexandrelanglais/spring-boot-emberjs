@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-emberjs-backend
+Implementation-Version: 0.1.0
+Built-By: langlais.alexandre
+Implementation-Vendor-Id: fr.demandeatonton
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ emberjs-backend/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: fr.demandeatonton.Application
+
